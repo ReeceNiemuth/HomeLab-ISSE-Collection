@@ -1,10 +1,16 @@
-# Home Lab – Patriot Command Operations System (PCOS)
+# Home Lab Hub
+
+<p align="center">
+  <img src="./Homelab_PCOS_readme%20banner.png" alt="Reece Niemuth Banner" />
+</p>
 
 My personal, secure engineering lab collection showcasing ISSO/ISSE/ISSM-related documentation, baselines, and automation. Includes lab architecture, hardware/software baselines, risk documentation, and examples of DoD-aligned systems security engineering practices. With the current initiative being the build-out and completion of all system, network, and associated documentation for self education and DoD Cyber portofolio enrichment.
-https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection/blob/main/Homelab_PCOS_readme%20banner.png
---- 
 
+-----
+
+<p align="center" style="color:#66CCFF;">
 I attempt to update this repository with updates on my current home lab project initiatives and document updates as a way to bolster my security engineering expertise. Please feel free to explore the code and artifacts I leave here to create, update and document my ongoing adventures in my personal architecture!
+</p>
 
 ---
 
@@ -67,7 +73,4 @@ This collection mirrors the documentation stack of a real-world ISSO/ISSE enviro
 ---
 
 ## 🔗 Related Repositories  
-- [Cyber-Engineering-Portfolio](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio) – My main professional showcase.  
-- [TCU-SWE-Undergrad-Projects](https://github.com/ReeceNiemuth/TCU-SWE-Undergrad-Projects) – Undergraduate software engineering foundations (Java).  
-
----
+- [Cyber-Engineering-Portfolio](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio) – My main professional showcase for work NOT directly related to my Homelab / DoD 'program' projects
