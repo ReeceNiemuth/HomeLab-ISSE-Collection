@@ -1,7 +1,12 @@
-# 🏠 Home Lab – DoD ISSE 
-My personal, secure engineering lab collection showcasing ISSO/ISSE/ISSM-related documentation, baselines, and automation. Includes lab architecture, hardware/software baselines, risk documentation, and examples of DoD-aligned systems security engineering practices.
+# Home Lab – Patriot Command Operations System (PCOS)
+
+My personal, secure engineering lab collection showcasing ISSO/ISSE/ISSM-related documentation, baselines, and automation. Includes lab architecture, hardware/software baselines, risk documentation, and examples of DoD-aligned systems security engineering practices. With the current initiative being the build-out and completion of all system, network, and associated documentation for self education and DoD Cyber portofolio enrichment.
+https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection/blob/main/Homelab_PCOS_readme%20banner.png
+--- 
 
 I attempt to update this repository with updates on my current home lab project initiatives and document updates as a way to bolster my security engineering expertise. Please feel free to explore the code and artifacts I leave here to create, update and document my ongoing adventures in my personal architecture!
+
+---
 
 ## 📂 Repository Structure  
 
