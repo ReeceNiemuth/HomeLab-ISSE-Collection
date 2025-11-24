@@ -1,7 +1,7 @@
 # Home Lab Hub
 
 <p align="center">
-  <img src="./Homelab_PCOS_readme%20banner.png" alt="PCOS Banner" />
+  <img src="./extras/Homelab_PCOS_readme%20banner.png" alt="PCOS Banner" />
 </p>
 
 My personal, secure engineering lab collection showcasing ISSO/ISSE/ISSM-related documentation, baselines, and automation. Includes lab architecture, hardware/software baselines, risk documentation, and examples of DoD-aligned systems security engineering practices. With the current initiative being the build-out and completion of all system, network, and associated documentation for self education and DoD Cyber portofolio enrichment.
@@ -15,7 +15,7 @@ I attempt to update this repository with updates on my current home lab project 
 ---
 
 <p align="center">
-  <img src="./ISSE_Homelab_FileMap.png" alt="Homelab Repo File Structure" style="max-width: 100%; width: 900px;">
+  <img src="./extras/ISSE_Homelab_FileMap.png" alt="Homelab Repo File Structure" style="max-width: 100%; width: 900px;">
 </p>
 
 ## 🔗 Related Repositories
