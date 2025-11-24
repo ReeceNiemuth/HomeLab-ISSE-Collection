@@ -13,7 +13,7 @@ I attempt to update this repository with updates on my current home lab project 
 </p>
 
 ---
-
+### Note: PCOS Directory Artifact may require you enable file macros after download (for dropdown menus)
 <p align="center">
   <img src="./extras/ISSE_Homelab_FileMap.png" alt="Homelab Repo File Structure" style="max-width: 100%; width: 900px;">
 </p>
