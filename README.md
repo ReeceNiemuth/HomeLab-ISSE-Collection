@@ -3,7 +3,7 @@
 <h1>Home Lab Hub</h1>
 
 <p align="left">
-  <i><a href="project_archive">Click here to visit my Homelab Archive</a> </i>
+  <i><a href="main/project_archive">Click here to visit my Homelab Archive</a> </i>
 </p>
 
 <p align="left">
