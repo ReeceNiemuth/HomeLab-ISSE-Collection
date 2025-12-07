@@ -1,6 +1,4 @@
-<p align="center">
-# Home Lab Hub
-</p>
+<h1 align="center">Home Lab Hub</h1>
 
 ## 🛰️ My Current Project
 
