@@ -1,6 +1,8 @@
+<p align="center">
 # Home Lab Hub
+</p>
 
-## ▌ My Current Project ▐
+## 🛰️ My Current Project
 
 <p align="center">
   <img src="./extras/Homelab_PCOS_readme%20banner.png" alt="PCOS Banner" />
