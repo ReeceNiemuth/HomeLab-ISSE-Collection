@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="./extras/Home_Lab_Hub_Banner.png" alt="PCOS Banner" />
+<div align="center">
+
+<h1>Home Lab Hub</h1>
+
+<p align="left">
+  <i><a href="./project_archive">Click here to visit my Homelab Archive</a> </i>
 </p>
 
-<p align="center">
-  <i><a href="./project_archive">Click here to visit my Homelab Activity Archive</a> </i>
+<p align="left">
+  <i><a href="extras/Home_Lab_Hub_Banner.png">Click here to view a Photo of the Lab!</a> </i>
 </p>
 
 ---
