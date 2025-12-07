@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./extras/Home Lab Hub Banner.png" alt="PCOS Banner" />
+  <img src="./extras/Home_Lab_Hub_Banner.png" alt="PCOS Banner" />
 </p>
 
 <p align="center">
