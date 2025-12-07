@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Home Lab Hub</h1>
+<h1>Welcome to my Home Lab Hub!</h1>
 
 <p align="left">
   <i><a href="main/project_archive">Click here to visit my Homelab Archive</a> </i>
