@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-  <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection/issues"> 💬 Click here to leave feedback or ask a question!</a> </i>
+  💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection/issues">Click here to leave feedback or ask a question!</a> </i>
 </p>
 
 ---
