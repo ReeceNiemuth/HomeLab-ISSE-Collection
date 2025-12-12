@@ -3,14 +3,12 @@
 <h1>Welcome to my Home Lab Hub!</h1>
 
 <p align="left">
-  <i><a href="main/project_archive">Click here to visit my Homelab Archive</a> </i>
+  📁 <i><a href="main/project_archive">Click here to visit my Homelab Archive</a> </i>
 </p>
 
 <p align="left">
-  <i><a href="extras/Home_Lab_Hub_Banner.png">Click here to view a Photo of the Lab!</a> </i>
+  📷 <i><a href="extras/Home_Lab_Hub_Banner.png">Click here to view a Photo of the Lab!</a> </i>
 </p>
-
----
 
 <p align="left">
   💬 <i><a href="https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection/issues">Click here to leave feedback or ask a question!</a> </i>
